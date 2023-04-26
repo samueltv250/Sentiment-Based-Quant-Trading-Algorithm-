@@ -35,5 +35,8 @@ Disclaimer
 This project is for educational purposes only. The creator is not responsible for any financial gains or losses resulting from the use of this code. Please use it at your own risk.
 
 
-
+Important Notes
+- To request full access to the NewsCatcher API, please visit their website [NewsCatcher](https://newscatcherapi.com/) and follow their application process. 
+- The API key provided in the code is just an example and must be replaced with your personal API key.
+- Be aware of the API rate limits and adjust the wait_time variable accordingly.
 
